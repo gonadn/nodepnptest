@@ -8,8 +8,8 @@ import {Lists} from "@pnp/sp/lists";
 export class SPListCheck {
 
     constructor() {
-        const appID: any = "fba63bfe-fd3f-4a12-96ac-02c9733a3125";
-        const appsecret: any = "91W-YIZ38tOR7M7UN.yzuwO6.zEnLX-3M5";
+        const appID: any = "xxxxxxx";
+        const appsecret: any = "xxxxx";
         console.log(appID);
         console.log(appsecret);
 
